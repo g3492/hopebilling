@@ -549,7 +549,7 @@
     },
     "views\/vps\/order\/new.php": {
         "месяц": "mes",
-        "ЗАКАЗАТЬ": "Orden",
+        "ЗАКАЗАТЬ": "Ordenar",
         "mo": "mo",
         " \/ mo": " \/ mo",
         " mo": " mo",
@@ -683,7 +683,7 @@
         "Time of the day": "Hora del día",
         "Close": "Cerrar",
         "Save": "Guardar",
-        "Order": "Orden",
+        "Order": "Ordenar",
         "Create": "Crear",
         "Backup type": "Tipo de resguardo",
         "Incremental": "Incremental",

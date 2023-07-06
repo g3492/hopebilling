@@ -28,7 +28,7 @@
                                         style="vertical-align: top;width: 100%;padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px">
                                         <div align="center" style="font-size:12px">
                                             <img align="center" border="0"
-                                                 src="<?= $_->path('front/images/logo250-75.png') ?>" alt="Image"
+                                                 src="<?= $_->path('images/logo250-75.png') ?>" alt="Image"
                                                  title="Image"
                                                  style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block;border: 0;height: auto;line-height: 100%;margin: 0 auto;float: none;width: 100% !important;max-width: 250px"
                                                  width="250">
@@ -55,7 +55,7 @@
                                                         style="vertical-align: top;border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; color: #ffffff; background-color: #3AAEE0; padding-top: 5px; padding-right: 20px; padding-bottom: 5px; padding-left: 20px; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;text-align: center">
                                                         <a href="<?= $_->link('login') ?>" target="_blank"
                                                            style="display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;background-color: #3AAEE0;color: #ffffff">
-                                                            <span style="font-size:12px;line-height:24px;">Личный кабинет</span>
+                                                            <span style="font-size:12px;line-height:24px;"><?= $_->l('Личный кабинет') ?></span>
                                                         </a>
                                                     </td>
                                                 </tr>

@@ -4,7 +4,7 @@
         "Настроить": "Configurar"
     },
     "views\/layout.php": {
-        "Сообщение об ошибке": "Reporte de Bug",
+        "Сообщение об ошибке": "Reporte de Error(Bug)",
         "Ваш Email": "Su correoE",
         "Расскажите нам об обнаруженной ошибке. Вы можете прикрепить скриншот, нажмите на изображение фотоаппарата.": "Su descripción del error. Click en el ícono para una impresión de pantalla. ",
         "Сделать скриншот": "Impresión de pantalla",
@@ -16,6 +16,7 @@
         "Заказы": "Órdenes",
         "Сервера": "Servidores",
         "Тарифы": "Planes",
+        "Параметры": "Parámetros",
         "Регистрация доменов": "Registro de dominios",
         "Доменные зоны": "Zonas de dominios",
         "Регистраторы доменов": "Registradores de dominios",
@@ -186,7 +187,8 @@
     "views\/setting\/update.php": {
         "Текущая версия:": "Versión actual:",
         "Доступная версия:": "Versión disponible:",
-        "Обновить": "Actualizar"
+        "Обновить": "Actualizar",
+        "Не удалось загрузить информацию. Попробуйте повторить запрос немного позже.": "No se pudo cargar la información. Intente más tarde."
     },
     "views\/setting\/license.php": {
         "Лицензия": "Licencia",
@@ -690,6 +692,8 @@
         "Сохранить": "Guardar"
     },
     "views\/setting\/notifications_setting.php": {
+        "Разрешить клиентам управлять SMS оповещениями": "Permitir que los clientes administren las notificaciones por SMS",
+        "Разрешить клиентам управлять Email оповещениями": "Permitir que los clientes administren las notificaciones por Email",
         "Сохранить": "Guardar"
     },
     "views\/module\/list.php": {
@@ -898,6 +902,12 @@
         "Сохранить": "Guardar",
         "Transfer": "Transferencia",
         "Bandwith": "Ancho de banda",
+        "Включен": "Incluído",
+        "Основные": "Principal",
+        "Параметры": "Parámetros",
+        "Опции": "Opciones",
+        "Цены": "Precios",
+        "Включить возможность заказа тестового периода": "Habilitar opción de días de prueba gratis",
         "VM template": "Plantilla de VM",
         "Instant creation using a VM template": "Instalación instantánea mediante una plantilla de VM",
         "VPS templates available": "Plantillas de VM disponibles",
